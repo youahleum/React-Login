@@ -13,7 +13,7 @@ function App() {
 
   return (
     <div>
-      {user.isLogin ? <MyPage /> : <LoginComponent />}
+      {/* ... */}
     </div>
   )
 }
