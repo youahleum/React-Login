@@ -13,7 +13,7 @@ function MyPage() {
     return (
         <>
             <h1>MyPage</h1>
-            <p>님, 안녕하세요!</p>
+            <p>{/* ... */}님, 안녕하세요!</p>
             <button >로그아웃</button>
         </>
     )
