@@ -5,7 +5,7 @@ https://docs.google.com/presentation/d/13AydXzKjrk-l_mFR3Hgr3CJ0b_kxotL-SVhiutPQ
 ## 생성
 1. Fork
 2. Clone your git Repo URL
-3. cd vite-project-boiler-template
+3. cd STFE3-4_0526
 4. npm i
 5. npm run dev
 
